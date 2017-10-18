@@ -1,0 +1,10 @@
+Assignments for MIT OCW "Introduction to Programming in Java"
+
+
+
+
+Assignments for MIT OCW "Introduction to Programming in Java" I wrote these for fun, there is nothing too difficult or too special in these programs.
+
+Link to the class: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/
+
+Please refer to the website for details of each assignment: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-092-introduction-to-programming-in-java-january-iap-2010/assignments/
